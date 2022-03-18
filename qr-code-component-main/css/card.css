@@ -1,0 +1,42 @@
+.card {
+  box-shadow: rgb(215, 220, 226) 5px 9px 15px 11px;
+  border-radius: 20px;
+  background-color: hsl(0, 0%, 100%);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 330px;
+}
+
+.code {
+  width: 300px;
+  height: 300px;
+}
+
+.card img {
+  max-height: 100%;
+  border-radius: 10px;
+  margin: 15px;
+}
+
+.card .information {
+  background-color: hsl(0, 0%, 100%);
+  padding: 25px 35px 25px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.card .information h2 {
+  font-size: 19px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: hsl(218, 44%, 22%);
+  text-align: center;
+  ;
+}
+
+.card .information h3 {
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  text-align: center;
+}
